@@ -6,9 +6,3 @@
 -   <li> diegoarmando981@gmail.com </li>
 -   <li> Instagram: @diegoaespinosa </li>
 -   <li> linkID </li>
-- 
-
-<!---
-DiegoAespinosa/DiegoAespinosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
